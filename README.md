@@ -8,8 +8,8 @@ Pre-requisite installations :
 Steps to setup ELK stack using docker containers
 
 1. Clone the git repository :
-
-  git clone https://github.com/deviantony/docker-elk.git
+ 
+   git clone https://github.com/deviantony/docker-elk.git
 
 2. To run the stack, get inside the directory and run docker-compose
     
